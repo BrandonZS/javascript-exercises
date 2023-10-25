@@ -10,7 +10,7 @@ const repeatString = function(string, number) {
         
         return newString;
     }
-    
+     
 };
 
 // Do not edit below this line
